@@ -2,11 +2,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Technojam
+-  **Learning :** Arduino, C
+-  **Languages :** Python, Java, C#
+-  **Hobbies :** Calligraphy, Running
+-  **Organization :** UC Berkeley Data Science ULAB
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
