@@ -5,7 +5,7 @@
 -  **Learning :** Arduino, C
 -  **Languages :** Python, Java, C#
 -  **Hobbies :** Calligraphy, Running
--  **Organization :** UC Berkeley Data Science ULAB
+-  **Organization :** UC Berkeley AUTOLAB
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
