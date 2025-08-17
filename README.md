@@ -9,6 +9,5 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=TianshuangQiu&show_icons=true)
-
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TianshuangQiu&title=Profile%20Views&edge_flat=false)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
