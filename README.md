@@ -17,7 +17,7 @@ I'm a Research Engineer based in Redmond, WA. I'm passionate about robotics, vir
 
     🖼️ VLM/VLA Mosaics
 
-🛠️ Contributions
+🕹️ My Conributions as a Game of Life
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![My contribution graph as a Game of Life](https://github4life.herokuapp.com/tianshuangqiu.gif)](https://github4life.herokuapp.com/tianshuangqiu)
 
