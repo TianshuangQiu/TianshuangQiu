@@ -37,9 +37,9 @@ Everyone shares one robot. Click a direction to open an issue, then click **Crea
 
 <p align="center">
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛<br>
-⬛🟩🟩🟩🟩🟩🟩🤖⬛⬜⬜⬜⬛<br>
-⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛⬜⬛<br>
-⬛⬜⬜⬜⬛⬜⬛⬜⬜⬜⬜⬜⬛<br>
+⬛🟩🟩🟩🟩🟩🟩🟩⬛⬜⬜⬜⬛<br>
+⬛⬛⬛⬛⬛⬛⬛🟩⬛⬛⬛⬜⬛<br>
+⬛⬜⬜⬜⬛⬜⬛🤖⬜⬜⬜⬜⬛<br>
 ⬛⬜⬛⬜⬛⬜⬛⬛⬛⬛⬛⬜⬛<br>
 ⬛⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬛<br>
 ⬛⬜⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛<br>
@@ -57,18 +57,19 @@ Everyone shares one robot. Click a direction to open an issue, then click **Crea
 <a href="https://github.com/TianshuangQiu/TianshuangQiu/issues/new?title=maze%7Cdown&body=Just+click+%22Create%22+to+send+the+robot+down!">⬇️&nbsp;Down</a>
 </p>
 
-<p align="center">Moves this maze: <b>1</b> &nbsp;·&nbsp; Mazes solved: <b>0</b></p>
+<p align="center">Moves this maze: <b>2</b> &nbsp;·&nbsp; Mazes solved: <b>0</b></p>
 
 <details>
 <summary>📜 Recent moves and top drivers</summary>
 
 | Move | Driver | Result |
 | --- | --- | --- |
+| ⬇️ down | [@TianshuangQiu](https://github.com/TianshuangQiu) | 2 tiles |
 | ➡️ right | [@TianshuangQiu](https://github.com/TianshuangQiu) | 6 tiles |
 
 | Top drivers | Moves |
 | --- | --- |
-| [@TianshuangQiu](https://github.com/TianshuangQiu) | 1 |
+| [@TianshuangQiu](https://github.com/TianshuangQiu) | 2 |
 
 </details>
 <!-- MAZE:END -->

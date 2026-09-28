@@ -5,6 +5,11 @@
    "user": "TianshuangQiu",
    "dir": "right",
    "result": "6 tiles"
+  },
+  {
+   "user": "TianshuangQiu",
+   "dir": "down",
+   "result": "2 tiles"
   }
  ],
  "seed": 584381882,
@@ -24,7 +29,7 @@
   "#############"
  ],
  "robot": [
-  1,
+  3,
   7
  ],
  "goal": [
@@ -59,7 +64,15 @@
   [
    1,
    7
+  ],
+  [
+   2,
+   7
+  ],
+  [
+   3,
+   7
   ]
  ],
- "moves": 1
+ "moves": 2
 }
