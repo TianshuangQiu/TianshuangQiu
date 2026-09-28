@@ -1,0 +1,53 @@
+name: Robot maze
+
+on:
+  issues:
+    types: [opened]
+
+# One move at a time so concurrent issues don't race on state.json.
+concurrency:
+  group: maze
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'maze|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Move robot
+        id: move
+        env:
+          TITLE: ${{ github.event.issue.title }}
+          USER_LOGIN: ${{ github.event.issue.user.login }}
+        run: |
+          python maze/maze.py move "${TITLE#maze|}" "$USER_LOGIN" > message.txt
+          cat message.txt
+
+      - name: Commit board
+        env:
+          USER_LOGIN: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md maze/state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "🤖 Maze move by @$USER_LOGIN"
+          git push
+
+      - name: Reply and close issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$ISSUE" --repo "$GITHUB_REPOSITORY" --body-file message.txt
+          gh issue close "$ISSUE" --repo "$GITHUB_REPOSITORY"

@@ -29,3 +29,46 @@ I'm a Member of Technical Staff at Foundry Robotics in San Francisco, CA, buildi
 - **Manifold**: Lead engineer. Premiered at Stanford Live and exhibited at The Exploratorium (2025)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- MAZE:START -->
+🧩 Help My Robot Reach the Box
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Everyone shares one robot. Click a direction to open an issue, then click **Create**. A GitHub Action drives 🤖 until it hits a wall or reaches a fork, then updates this page within about a minute.
+
+<p align="center">
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛<br>
+⬛🤖⬜⬜⬜⬜⬜⬜⬛⬜⬜⬜⬛<br>
+⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛⬜⬛<br>
+⬛⬜⬜⬜⬛⬜⬛⬜⬜⬜⬜⬜⬛<br>
+⬛⬜⬛⬜⬛⬜⬛⬛⬛⬛⬛⬜⬛<br>
+⬛⬜⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬛<br>
+⬛⬜⬛⬛⬛⬛⬛⬛⬛⬜⬛⬛⬛<br>
+⬛⬜⬜⬜⬜⬜⬛⬜⬜⬜⬛⬜⬛<br>
+⬛⬜⬛⬛⬛⬜⬛⬜⬛⬛⬛⬜⬛<br>
+⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬜⬜⬛<br>
+⬛⬜⬛⬜⬛⬜⬛⬜⬛⬛⬛⬜⬛<br>
+⬛⬜⬜⬜⬛⬜⬜⬜⬜⬜⬜📦⬛<br>
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+</p>
+
+<p align="center">
+<a href="https://github.com/TianshuangQiu/TianshuangQiu/issues/new?title=maze%7Cup&body=Just+click+%22Create%22+to+send+the+robot+up!">⬆️&nbsp;Up</a><br>
+<a href="https://github.com/TianshuangQiu/TianshuangQiu/issues/new?title=maze%7Cleft&body=Just+click+%22Create%22+to+send+the+robot+left!">⬅️&nbsp;Left</a> &nbsp;·&nbsp; <a href="https://github.com/TianshuangQiu/TianshuangQiu/issues/new?title=maze%7Cright&body=Just+click+%22Create%22+to+send+the+robot+right!">➡️&nbsp;Right</a><br>
+<a href="https://github.com/TianshuangQiu/TianshuangQiu/issues/new?title=maze%7Cdown&body=Just+click+%22Create%22+to+send+the+robot+down!">⬇️&nbsp;Down</a>
+</p>
+
+<p align="center">Moves this maze: <b>0</b> &nbsp;·&nbsp; Mazes solved: <b>0</b></p>
+
+<details>
+<summary>📜 Recent moves and top drivers</summary>
+
+| Move | Driver | Result |
+| --- | --- | --- |
+| – | – | – |
+
+| Top drivers | Moves |
+| --- | --- |
+| – | – |
+
+</details>
+<!-- MAZE:END -->
